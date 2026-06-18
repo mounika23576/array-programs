@@ -166,7 +166,7 @@ for i in range(0,len(a)):
         s=max(s,sum)
 print(s)  '''      
 #symmetric pairs
-n=int(input())
+'''n=int(input())
 s=[]
 for i in range(n):
     a,b=list(map(int,input().split()))
