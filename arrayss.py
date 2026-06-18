@@ -92,17 +92,6 @@ for i in a:
         print(i)
         break'''
 
-#12maximum prodcut subarray
-
-
-
-
-
-
-
-
-
-
 #13find the median of the array
 '''n=int(input())
 a=list(map(int,input().split()))
